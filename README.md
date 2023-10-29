@@ -9,3 +9,5 @@ git status - to check the status, types - modified, untracked, staged, unchanged
 git add filename / git add .(to add all files) - adds new or changed files in your working directory to the git staging area
 
 git commit - it is the record of change, git commit -m "some message"
+
+git push - to upload local repo content to remote repo, git push origin main
